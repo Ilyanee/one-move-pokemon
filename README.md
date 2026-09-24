@@ -11,5 +11,8 @@ This is only an estimation.
 ## Decision making
 The decision relies on the following assumptions:
 
-    -The player knows everything about his/her own Pokemon
-    
+- The player knows everything about his/her Pokemon at all times
+
+- The player knows only what has been seen from the opponent's Pokemon, the unknwon features are either max values (stats) or most popular ones (moves, item...)
+
+- The environment is known at all times
